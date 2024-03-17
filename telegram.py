@@ -7,11 +7,8 @@ from telethon.tl.types import PeerUser, PeerChat, PeerChannel
 
 
 
-
-
 set_appearance_mode("dark")
 set_default_color_theme("green")
-
 
 
 def download():
